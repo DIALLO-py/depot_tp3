@@ -1,2 +1,3 @@
 paquet linux 1
 paquet 2 linux 1
+installation distante : apt -yum
