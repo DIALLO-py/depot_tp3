@@ -1,1 +1,9 @@
+<<<<<<< HEAD
 dpkg-rpm
+=======
+paquet linux 1
+paquet 2 linux 1
+installation distante : apt -yum
+>>>>>>> paquet_distant
+
+==> correction , on garde tout
